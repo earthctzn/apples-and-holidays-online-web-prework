@@ -49,4 +49,7 @@ def all_winter_holiday_supplies(holiday_hash)
   output = []
   holiday_hash[:winter].values.flatten
 end
+end
+end
+end
 
